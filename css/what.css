@@ -1,0 +1,1001 @@
+.static{
+ width: 100%;
+    position: fixed;
+    float: left;
+    background-color: #000;
+    min-height: 400px;
+    float: left;
+    margin-top: -91px;
+}
+
+.producey{
+  width: 100%;
+  position: relative;
+  margin-top:500px;
+  float: left;
+}
+
+.prodytext {
+    background-color: #fff !important;
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.prodytext h3 {
+    width: 96%;
+    position: relative;
+    float: left;
+    margin: 0;
+    text-transform: capitalize;
+    color: #677c86;
+    font-weight: 600;
+    border-bottom: 1px solid #677c86;
+    padding-bottom: 30px;
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+.prodytext h4 {
+    width: 38%;
+    position: relative;
+    float: left;
+    margin: 0;
+    text-transform: uppercase;
+    color: #d09b9e;
+    font-weight: 600;
+    border-bottom: 4px solid #c62d2d;
+    padding-bottom: 3px;
+    font-size: 12px;
+    top: -21px;
+    margin-left: 10px;
+}
+
+.prodytext p {
+    width: 88%;
+    position: relative;
+    float: left;
+    color: #8c837f;
+    font-weight: 400;
+    text-align: justify;
+    margin: 0px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.softyx {
+    width: 100%;
+    position: relative;
+    float: left;
+    margin-bottom: 168px;
+}
+
+.xtexts{
+    width: 100%;
+    position:relative;
+    float: left;
+    background-color: #fff;
+}
+
+ .xtexts p {
+    width: 96%;
+    position: relative;
+    float: left;
+    color: #8c837f;
+    font-weight: 400;
+    text-align: justify;
+    margin: 0px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.abitys{
+    display:none;
+}
+
+
+.xtexts {
+  display: none;
+}
+
+.notshow{
+    display:block;
+    margin-top: 22px;
+}
+
+
+.static1 {
+            width: 100%;
+            position: relative;
+            float: left;
+            background-color: #000;
+            min-height: 400px;
+            float: left;
+            margin-top: -51px;
+            display: none;
+        }
+
+
+.housing{
+    width: 100%;
+    position: relative;
+    float: left;
+    background-color: #000;
+    min-height: 400px;
+    padding-top:20px;
+    margin-top: -10px;
+}
+
+.housing h2 {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+.housing h2:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #4B2902;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h3 {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+.housing h3:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #543462;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h4 {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+.housing h4:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #543462;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h5 {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+.housing h5:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #5A0023;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h6 {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+.housing h6:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #080A86;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h1 {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+.housing h1:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #FB912D;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+
+h4.imajin {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+h4.imajin:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #AF0600;;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+h5.princ{
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+h5.princ:hover  {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #2C2F48;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+ h5.star{
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+ h5.star:hover  {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #6C92C1;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+ h5.cig{
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: transparent;
+    z-index: 10000;
+    margin: 0px;
+}
+
+ h5.cig:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 438px;
+    background-color: #683E8A;;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing li{
+    position: relative;
+    float: left;
+    margin-left: 38px;
+    margin-top: -15px;
+    margin-bottom: 20px;
+    margin-right: 38px;
+}
+
+.housing li img{
+    width:100%;
+}
+
+.shoky{
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    color:#fff;
+    top:200px;
+    font-size: 12px;
+}
+
+
+/*################ grand #############*/ 
+    @media all and (max-width: 520px) {
+    .housing{
+        margin-top: -35px !important;
+    }
+
+    .housing li{
+          
+          margin-left: 15px !important;
+          
+        }
+
+        .housing h2:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #4B2902;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h3:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #543462;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h4:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #543462;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h5:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #5A0023;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h6:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #080A86;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+.housing h1:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #FB912D;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+h4.imajin:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #AF0600;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+h5.princ:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #2C2F48;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+h5.star:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #6C92C1;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+
+h5.cig:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 393px;
+    background-color: #683E8A;
+    z-index: 10000;
+    margin: 0px;
+    display: block;
+}
+        
+}
+
+
+    @media all and (max-width: 497px) {
+    .housing{
+        margin-top: -35px !important;
+    }
+
+    .housing li{
+          
+          margin-left: 15px !important;
+          
+        }
+
+        .housing h2:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #4B2902;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+
+.housing h3:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #543462;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+
+.housing h4:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #543462;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+
+.housing h5:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #5A0023;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+
+.housing h6:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #080A86;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+
+.housing h1:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #FB912D;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+
+h4.imajin:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #AF0600;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+
+h5.princ:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #2C2F48;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+
+h5.star:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #6C92C1;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+
+h5.cig:hover {
+    width: 100%;
+    position: absolute;
+    float: left;
+    min-height: 357px;
+    background-color: #683E8A;
+    z-index: 10000;
+    margin: 0px;
+    display: none;
+}
+        
+}
+
+
+
+
+/*################ grand #############*/
+
+
+@media screen (min-width: 400px) and (max-width: 800px) {
+        
+        .prodytext {
+            background-color: #fff !important;
+            width: 100%;
+            position: relative;
+            float: left; 
+            margin-top: -68px;
+        }
+
+    
+
+        .static {
+            width: 100%;
+            position: relative;
+            float: left;
+            background-color: #000;
+            min-height: 400px;
+            float: left;
+            margin-top: -51px;
+            display: none;
+        }
+
+        .static1 {
+            width: 100%;
+            position: relative;
+            float: left;
+            background-color: #000;
+            min-height: 400px;
+            float: left;
+            margin-top: -51px;
+            display: block;
+        }
+
+        h5.cig:hover {
+            width: 100%;
+            position: absolute;
+            float: left;
+            min-height: 236px;
+            background-color: #683E8A;
+            z-index: 10000;
+            margin: 0px;
+            display: block;
+        }
+
+        .prodytext h3 {
+            width: 92%;
+            position: relative;
+            float: left;
+            margin: 0;
+            text-transform: capitalize;
+            color: #677c86;
+            font-weight: 600;
+            border-bottom: 1px solid #677c86;
+            padding-bottom: 30px;
+            font-size: 24px;
+            margin-left: 10px;
+        }
+
+        .producey {
+            width: 99%;
+            position: relative;
+            margin-top: 0px !important;
+            float: left;
+        }
+
+        .worky {
+            margin: 0 auto;
+            position: relative;
+            min-height: 50px;
+            overflow: auto;
+            width: 92%;
+            margin-top: 30px;
+            padding-bottom: 40px;
+        }
+
+       .abity{
+            display:none;
+        }
+
+        .abitys{
+            display:block;
+        }
+
+        .xtexts {
+            display: block;
+        }
+
+        .prodytext h4 {
+            width: 56%;
+            position: relative;
+            float: left;
+            margin: 0;
+            text-transform: uppercase;
+            color: #d09b9e;
+            font-weight: 600;
+            border-bottom: 4px solid #c62d2d;
+            padding-bottom: 3px;
+            font-size: 12px;
+            top: -21px;
+            margin-left: 10px;
+        }
+
+}
+
+
+ @media screen (min-width: 0px) and (max-width: 500px) {
+        
+
+         .prodytext {
+            background-color: #fff !important;
+            width: 100%;
+            position: relative;
+            float: left;
+            margin-top: -68px;
+        }
+
+        .housing {
+            margin-top: -38px !important;
+        }
+
+        .static {
+            width: 100%;
+            position: relative;
+            float: left;
+            background-color: #000;
+            min-height: 400px;
+            float: left;
+            margin-top: -51px;
+            display: none;
+        }
+    
+        .static1 {
+            width: 100%;
+            position: relative;
+            float: left;
+            background-color: #000;
+            min-height: 400px;
+            float: left;
+            margin-top: -51px;
+            display: block;
+        }
+
+    
+
+       .abity{
+            display:none;
+        }
+
+        .abitys{
+            display:block;
+        }
+
+        .prodytext h4 {
+            width: 56%;
+            position: relative;
+            float: left;
+            margin: 0;
+            text-transform: uppercase;
+            color: #d09b9e;
+            font-weight: 600;
+            border-bottom: 4px solid #c62d2d;
+            padding-bottom: 3px;
+            font-size: 12px;
+            top: -21px;
+            margin-left: 10px;
+        }
+
+
+        .prodytext h3 {
+            width: 92%;
+            position: relative;
+            float: left;
+            margin: 0;
+            text-transform: capitalize;
+            color: #677c86;
+            font-weight: 600;
+            border-bottom: 1px solid #677c86;
+            padding-bottom: 30px;
+            font-size: 24px;
+            margin-left: 10px;
+        }
+
+        .producey {
+            width: 99%;
+            position: relative;
+            margin-top: 0px !important;
+            float: left;
+        }
+
+        .worky {
+            margin: 0 auto;
+            position: relative;
+            min-height: 50px;
+            overflow: hidden;
+            width: 92%;
+            margin-top: 30px;
+        }
+
+        .prodytext {
+                background-color: #fff !important;
+                width: 100%;
+                position: relative;
+                float: left;
+                margin-top: -218px;
+            }
+
+        .static1 {
+            width: 100%;
+            position: relative;
+            float: left;
+            background-color: #000;
+            min-height: 400px;
+            float: left;
+            margin-top: -36px;
+            display: block;
+        }
+
+        .prodytext h3 {
+            width: 92%;
+            position: relative;
+            float: left;
+            margin: 0;
+            text-transform: capitalize;
+            color: #677c86;
+            font-weight: 600;
+            border-bottom: none;
+            padding-bottom: 30px;
+            font-size: 24px;
+            margin-left: 10px;
+        }
+
+        .prodytext h4 {
+            width: 95%;
+            position: relative;
+            float: left;
+            margin: 0;
+            text-transform: uppercase;
+            color: #d09b9e;
+            font-weight: 600;
+            border-bottom: 4px solid #c62d2d;
+            padding-bottom: 3px;
+            font-size: 12px;
+            top: -21px;
+            margin-left: 10px;
+        }
+
+        .prodytext p {
+            width: 91%;
+            position: relative;
+            float: left;
+            color: #8c837f;
+            font-weight: 400;
+            text-align: left;
+            margin: 0px;
+            margin-left: 10px;
+            font-size: 14px;
+        }
+
+        .xtexts {
+            display: block;
+        }
+           
+}
+
+
+.contacts{
+    position: relative;
+    float: left;
+    margin:20px 0 30px 0;
+}
+
+#mainform{
+width:960px;
+margin:20px auto;
+padding-top:20px;
+font-family: 'Fauna One', serif;
+}
+
+#form{
+border-radius:2px;
+padding:20px 30px;
+box-shadow:0 0 15px;
+font-size:14px;
+font-weight:bold;
+width:40%;
+margin:20px 250px 0 35px;
+float:left;
+}
+
+
+h3{
+text-align:center;
+font-size:20px;
+}
+
+input{
+width: 100%;
+    height: 35px;
+    margin-top: 5px;
+    border: 1px solid #999;
+    border-radius: 3px;
+    padding: 5px;
+    font-weight: 500;
+}
+
+input[type=button]{
+background-color: #820101;
+border:1px solid white;
+font-family: 'Fauna One', serif;
+font-Weight:bold;
+font-size:18px;
+color:white;
+}
+
+textarea{
+    width: 100%;
+    height: 80px;
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 5px;
+    resize: none;
+    font-weight: 400;
+}
+
+span{
+color:red
+}
+
+#note{
+color:black;
+font-Weight:400;
+}
+
+#returnmessage{
+font-size:14px;
+color:green;
+text-align:center;
+}
+
+@media all and (max-width: 497px) {
+ 
+         #form{
+            border-radius:2px;
+            padding:20px 30px;
+            box-shadow:0 0 15px;
+            font-size:14px;
+            font-weight:bold;
+            width:80%;
+            margin:20px 250px 0 35px;
+            float:left;
+        }
+
+
+ }
+
+@media (max-width: 566px) and (min-width: 0px) {
+
+.webprod {
+    width: 87%;
+    position: relative;
+    float: left;
+    min-height: 320px;
+    margin: 10px 20px 30px 20px;
+}
+
+}
+
+
+@media (max-width: 306px) and (min-width: 0px) {
+
+.webproimg {
+    width: 81%;
+    position: relative;
+    float: left;
+}
+
+.webprod1 {
+    position: relative;
+    float: left;
+    width: 75%;
+    margin-left: 4px;
+}
+}
+
